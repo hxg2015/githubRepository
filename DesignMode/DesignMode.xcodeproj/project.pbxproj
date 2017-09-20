@@ -1,0 +1,368 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FD14BD831F70F3690039F4A1 /* BuickCarBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = FD14BD821F70F3690039F4A1 /* BuickCarBuilder.m */; };
+		FD14BD861F70F3A50039F4A1 /* AudiCarBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = FD14BD851F70F3A50039F4A1 /* AudiCarBuilder.m */; };
+		FD14BD891F70F56C0039F4A1 /* BenChiCarBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = FD14BD881F70F56C0039F4A1 /* BenChiCarBuilder.m */; };
+		FD14BD8C1F70F99C0039F4A1 /* CarSaler.m in Sources */ = {isa = PBXBuildFile; fileRef = FD14BD8B1F70F99C0039F4A1 /* CarSaler.m */; };
+		FD14BD8F1F70FB3B0039F4A1 /* Car.m in Sources */ = {isa = PBXBuildFile; fileRef = FD14BD8E1F70FB3B0039F4A1 /* Car.m */; };
+		FD14BD941F7106760039F4A1 /* PhoneBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = FD14BD931F7106760039F4A1 /* PhoneBuilder.m */; };
+		FD14BD971F7107940039F4A1 /* Phone.m in Sources */ = {isa = PBXBuildFile; fileRef = FD14BD961F7107940039F4A1 /* Phone.m */; };
+		FD14BD9A1F7108800039F4A1 /* Xiaomi.m in Sources */ = {isa = PBXBuildFile; fileRef = FD14BD991F7108800039F4A1 /* Xiaomi.m */; };
+		FD14BD9E1F7119840039F4A1 /* NSArray+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = FD14BD9D1F7119840039F4A1 /* NSArray+Extension.m */; };
+		FD3AF63A1F70B90800927E59 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3AF6391F70B90800927E59 /* main.m */; };
+		FD3AF6471F70BAE400927E59 /* CarBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3AF6461F70BAE400927E59 /* CarBuilder.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		FD3AF6341F70B90800927E59 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		FD14BD811F70F3690039F4A1 /* BuickCarBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BuickCarBuilder.h; sourceTree = "<group>"; };
+		FD14BD821F70F3690039F4A1 /* BuickCarBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BuickCarBuilder.m; sourceTree = "<group>"; };
+		FD14BD841F70F3A50039F4A1 /* AudiCarBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudiCarBuilder.h; sourceTree = "<group>"; };
+		FD14BD851F70F3A50039F4A1 /* AudiCarBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudiCarBuilder.m; sourceTree = "<group>"; };
+		FD14BD871F70F56C0039F4A1 /* BenChiCarBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BenChiCarBuilder.h; sourceTree = "<group>"; };
+		FD14BD881F70F56C0039F4A1 /* BenChiCarBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BenChiCarBuilder.m; sourceTree = "<group>"; };
+		FD14BD8A1F70F99C0039F4A1 /* CarSaler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CarSaler.h; path = ../CarSaler.h; sourceTree = "<group>"; };
+		FD14BD8B1F70F99C0039F4A1 /* CarSaler.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CarSaler.m; path = ../CarSaler.m; sourceTree = "<group>"; };
+		FD14BD8D1F70FB3B0039F4A1 /* Car.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Car.h; path = ../Car.h; sourceTree = "<group>"; };
+		FD14BD8E1F70FB3B0039F4A1 /* Car.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Car.m; path = ../Car.m; sourceTree = "<group>"; };
+		FD14BD921F7106760039F4A1 /* PhoneBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhoneBuilder.h; sourceTree = "<group>"; };
+		FD14BD931F7106760039F4A1 /* PhoneBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhoneBuilder.m; sourceTree = "<group>"; };
+		FD14BD951F7107940039F4A1 /* Phone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Phone.h; sourceTree = "<group>"; };
+		FD14BD961F7107940039F4A1 /* Phone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Phone.m; sourceTree = "<group>"; };
+		FD14BD981F7108800039F4A1 /* Xiaomi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Xiaomi.h; sourceTree = "<group>"; };
+		FD14BD991F7108800039F4A1 /* Xiaomi.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Xiaomi.m; sourceTree = "<group>"; };
+		FD14BD9C1F7119840039F4A1 /* NSArray+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+Extension.h"; sourceTree = "<group>"; };
+		FD14BD9D1F7119840039F4A1 /* NSArray+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Extension.m"; sourceTree = "<group>"; };
+		FD3AF6361F70B90800927E59 /* DesignMode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DesignMode; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD3AF6391F70B90800927E59 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FD3AF6451F70BAE400927E59 /* CarBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CarBuilder.h; path = ../CarBuilder.h; sourceTree = "<group>"; };
+		FD3AF6461F70BAE400927E59 /* CarBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CarBuilder.m; path = ../CarBuilder.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FD3AF6331F70B90800927E59 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FD14BD801F70C2D20039F4A1 /* Car */ = {
+			isa = PBXGroup;
+			children = (
+				FD14BD811F70F3690039F4A1 /* BuickCarBuilder.h */,
+				FD14BD821F70F3690039F4A1 /* BuickCarBuilder.m */,
+				FD14BD841F70F3A50039F4A1 /* AudiCarBuilder.h */,
+				FD14BD851F70F3A50039F4A1 /* AudiCarBuilder.m */,
+				FD14BD871F70F56C0039F4A1 /* BenChiCarBuilder.h */,
+				FD14BD881F70F56C0039F4A1 /* BenChiCarBuilder.m */,
+			);
+			name = Car;
+			path = ../Car;
+			sourceTree = "<group>";
+		};
+		FD14BD901F7105C90039F4A1 /* Demo2 */ = {
+			isa = PBXGroup;
+			children = (
+				FD14BD921F7106760039F4A1 /* PhoneBuilder.h */,
+				FD14BD931F7106760039F4A1 /* PhoneBuilder.m */,
+				FD14BD951F7107940039F4A1 /* Phone.h */,
+				FD14BD961F7107940039F4A1 /* Phone.m */,
+				FD14BD981F7108800039F4A1 /* Xiaomi.h */,
+				FD14BD991F7108800039F4A1 /* Xiaomi.m */,
+			);
+			path = Demo2;
+			sourceTree = "<group>";
+		};
+		FD14BD911F7105D10039F4A1 /* Demo */ = {
+			isa = PBXGroup;
+			children = (
+				FD14BD801F70C2D20039F4A1 /* Car */,
+				FD3AF6451F70BAE400927E59 /* CarBuilder.h */,
+				FD3AF6461F70BAE400927E59 /* CarBuilder.m */,
+				FD14BD8A1F70F99C0039F4A1 /* CarSaler.h */,
+				FD14BD8B1F70F99C0039F4A1 /* CarSaler.m */,
+				FD14BD8D1F70FB3B0039F4A1 /* Car.h */,
+				FD14BD8E1F70FB3B0039F4A1 /* Car.m */,
+			);
+			path = Demo;
+			sourceTree = "<group>";
+		};
+		FD14BD9B1F71192F0039F4A1 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				FD14BD9C1F7119840039F4A1 /* NSArray+Extension.h */,
+				FD14BD9D1F7119840039F4A1 /* NSArray+Extension.m */,
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		FD14BD9F1F711B5B0039F4A1 /* SimpleFactory */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = SimpleFactory;
+			sourceTree = "<group>";
+		};
+		FD3AF62D1F70B90800927E59 = {
+			isa = PBXGroup;
+			children = (
+				FD3AF6381F70B90800927E59 /* DesignMode */,
+				FD3AF6371F70B90800927E59 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FD3AF6371F70B90800927E59 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FD3AF6361F70B90800927E59 /* DesignMode */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FD3AF6381F70B90800927E59 /* DesignMode */ = {
+			isa = PBXGroup;
+			children = (
+				FD14BD9F1F711B5B0039F4A1 /* SimpleFactory */,
+				FD14BD9B1F71192F0039F4A1 /* Tools */,
+				FD3AF6411F70B95A00927E59 /* BuilderMode */,
+				FD3AF6391F70B90800927E59 /* main.m */,
+			);
+			path = DesignMode;
+			sourceTree = "<group>";
+		};
+		FD3AF6411F70B95A00927E59 /* BuilderMode */ = {
+			isa = PBXGroup;
+			children = (
+				FD14BD911F7105D10039F4A1 /* Demo */,
+				FD14BD901F7105C90039F4A1 /* Demo2 */,
+			);
+			path = BuilderMode;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FD3AF6351F70B90800927E59 /* DesignMode */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FD3AF63D1F70B90800927E59 /* Build configuration list for PBXNativeTarget "DesignMode" */;
+			buildPhases = (
+				FD3AF6321F70B90800927E59 /* Sources */,
+				FD3AF6331F70B90800927E59 /* Frameworks */,
+				FD3AF6341F70B90800927E59 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DesignMode;
+			productName = DesignMode;
+			productReference = FD3AF6361F70B90800927E59 /* DesignMode */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FD3AF62E1F70B90800927E59 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = hxg;
+				TargetAttributes = {
+					FD3AF6351F70B90800927E59 = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = C578BGF238;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = FD3AF6311F70B90800927E59 /* Build configuration list for PBXProject "DesignMode" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = FD3AF62D1F70B90800927E59;
+			productRefGroup = FD3AF6371F70B90800927E59 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FD3AF6351F70B90800927E59 /* DesignMode */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FD3AF6321F70B90800927E59 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FD14BD9A1F7108800039F4A1 /* Xiaomi.m in Sources */,
+				FD14BD891F70F56C0039F4A1 /* BenChiCarBuilder.m in Sources */,
+				FD3AF6471F70BAE400927E59 /* CarBuilder.m in Sources */,
+				FD14BD971F7107940039F4A1 /* Phone.m in Sources */,
+				FD14BD941F7106760039F4A1 /* PhoneBuilder.m in Sources */,
+				FD14BD861F70F3A50039F4A1 /* AudiCarBuilder.m in Sources */,
+				FD3AF63A1F70B90800927E59 /* main.m in Sources */,
+				FD14BD8F1F70FB3B0039F4A1 /* Car.m in Sources */,
+				FD14BD8C1F70F99C0039F4A1 /* CarSaler.m in Sources */,
+				FD14BD9E1F7119840039F4A1 /* NSArray+Extension.m in Sources */,
+				FD14BD831F70F3690039F4A1 /* BuickCarBuilder.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		FD3AF63B1F70B90800927E59 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		FD3AF63C1F70B90800927E59 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		FD3AF63E1F70B90800927E59 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = C578BGF238;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		FD3AF63F1F70B90800927E59 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = C578BGF238;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FD3AF6311F70B90800927E59 /* Build configuration list for PBXProject "DesignMode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FD3AF63B1F70B90800927E59 /* Debug */,
+				FD3AF63C1F70B90800927E59 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FD3AF63D1F70B90800927E59 /* Build configuration list for PBXNativeTarget "DesignMode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FD3AF63E1F70B90800927E59 /* Debug */,
+				FD3AF63F1F70B90800927E59 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FD3AF62E1F70B90800927E59 /* Project object */;
+}
